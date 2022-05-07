@@ -26,8 +26,8 @@
 
 ### My Favorite Courses:
 <!-- BLOG-POST-LIST:START -->
-- [Web Development][https://www.udemy.com/course/the-complete-web-development-bootcamp/]
-- [Golang][https://www.udemy.com/course/go-programming-golang-the-complete-developers-guide/]
+- [Web Development](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+- [Golang](https://www.udemy.com/course/go-programming-golang-the-complete-developers-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 
