@@ -3,11 +3,10 @@
 ## Im a Software developer 👨🏼‍💻, spending my days with golang and web development 🤩.
 
 ### Connect with me:
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/emretask1n#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/emretask1n#gh-dark-mode-only)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://linkedin.com/in/emretask1n)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/emretask1n#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/emretask1n#gh-dark-mode-only)
+[(./img/instagram-light.svg)](https://instagram.com/emretask1n#gh-light-mode-only)
+[(./img/instagram-dark.svg)](https://instagram.com/emretask1n#gh-dark-mode-only)
 
 
 
