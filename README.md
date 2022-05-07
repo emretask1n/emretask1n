@@ -21,12 +21,15 @@
 [<img align="left" alt="androidstudio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" style="padding-right:10px;" />][androidstudio]
 [<img align="left" alt="java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="padding-right:10px;" />][java]
 
-
-
-
-
 <br />
 <br />
+
+### My Favorite Courses:
+<!-- BLOG-POST-LIST:START -->
+-[Web Development][https://www.udemy.com/course/the-complete-web-development-bootcamp/]
+-[Golang][https://www.udemy.com/course/go-programming-golang-the-complete-developers-guide/]
+<!-- BLOG-POST-LIST:END -->
+
 
 
 [vscode]:https://code.visualstudio.com/
