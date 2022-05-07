@@ -4,6 +4,8 @@
 
 ### Connect with me:
 [<img align="left" alt="linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://linkedin.com/in/emretask1n)
+&nbsp;&nbsp;
+
 
 
 ### Languages and Tools:
