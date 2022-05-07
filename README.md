@@ -1,6 +1,6 @@
-# Hi 😇, I am Emre 
+<h1 align="center"> Hi 😇, I am Emre </h1>
 
-## Im a Software developer 👨🏼‍💻, spending my days with golang and web development 🤩.
+<h2 align="center"> Im a Software developer 👨🏼‍💻, spending my days with golang and web development 🤩. </h2>
 
 ### Connect with me:
 [<img align="left" alt="linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://linkedin.com/in/emretask1n)
