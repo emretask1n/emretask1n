@@ -17,7 +17,6 @@
 [<img align="left" alt="linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />][linux]
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][mysql]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="padding-right:10px;" />][github]
 [<img align="left" alt="androidstudio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" style="padding-right:10px;" />][androidstudio]
 [<img align="left" alt="java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="padding-right:10px;" />][java]
 
@@ -41,6 +40,5 @@
 [linux]:https://www.linux.org/
 [mysql]:https://www.mysql.com/
 [git]: https://git-scm.com/
-[github]:https://github.com
 [androidstudio]:https://developer.android.com/studio?gclid=Cj0KCQjwsdiTBhD5ARIsAIpW8CLqLWja9EIQC39Xu0W-IFc2_2WDQbjM9f4TRJ0HYp54elXmtCX8ZusaAoATEALw_wcB&gclsrc=aw.ds
 [java]:https://www.java.com/
